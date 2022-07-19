@@ -34,7 +34,7 @@ class Contenedor {
             console.log(e)
         }
     }
-
+ 
     getAll() {
         return this.productos
     }
